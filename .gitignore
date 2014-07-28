@@ -3,3 +3,4 @@ __pycache__/
 *.py[cod]
 
 20130822_I2R-tutorial_intro-python-scipy/scripts/*.py
+20131118_Blk71_practical-analytics/*.csv
