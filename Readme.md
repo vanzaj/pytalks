@@ -1,0 +1,1 @@
+Collection of talks/tutorials that don't justify indidividual repository.
