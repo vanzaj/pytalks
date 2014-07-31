@@ -1,5 +1,10 @@
 """Tools to style a talk."""
 
+import numpy as np
+import matplotlib.pyplot as plt
+import mpld3
+#mpld3.disable_notebook()
+
 from IPython.display import HTML, display, YouTubeVideo
 
 def prefix(url):

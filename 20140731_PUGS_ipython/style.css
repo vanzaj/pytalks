@@ -73,6 +73,12 @@
   font-family: sans-serif;
 }
 
+.rendered_html svg text {
+  color: black;
+  font-size: 50%;
+  font-family: Helvetica, sans-serif;
+}
+
 .input_prompt, .CodeMirror-lines, .output_area {
   font-family: "Source Code Pro", monospace;
   font-size: 120%;
