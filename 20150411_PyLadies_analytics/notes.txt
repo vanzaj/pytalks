@@ -1,0 +1,7 @@
+
+Create a public pad on https://etherpad.mozilla.org/
+Shorten url on bit.ly if needed
+Use dpaste.com to share code snippets
+
+
+
