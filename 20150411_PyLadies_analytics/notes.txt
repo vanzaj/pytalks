@@ -3,5 +3,6 @@ Create a public pad on https://etherpad.mozilla.org/
 Shorten url on bit.ly if needed
 Use dpaste.com to share code snippets
 
-
+youtube -> scipy 2014 play list
+https://www.youtube.com/playlist?list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog
 
